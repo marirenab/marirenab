@@ -10,7 +10,6 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I only started coding last year!
 
 <!---
 marirenab/marirenab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
