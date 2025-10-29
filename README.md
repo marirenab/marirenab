@@ -4,7 +4,7 @@
 
 🌱 Currently working on:
 
-Developing machine learning models to screen and predict Parkinson’s Disease using multimodal data (proteomics + accelerometer/sensor data).
+Developing machine learning models to screen and predict Parkinson’s Disease using multimodal data (proteomics, electronic healthcare record data and accelerometer/sensor data).
 
 Exploring how to integrate deep learning and interpretable models for clinical translation.
 
